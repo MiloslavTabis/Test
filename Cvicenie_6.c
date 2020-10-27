@@ -6,6 +6,7 @@ int main(){
     printf("%d\n", i*5)
     scanf("%d %d", &num_1, &num_2);
     printf("Sucet je %d", num_1 + num_2);
-    printf("NEW BRANCH test");
+    printf("NEW BRANCdsadsaH test");
+
     return 0;
 }
